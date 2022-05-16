@@ -6,9 +6,14 @@
 }
 
 body{
-    background-color: rgb(8, 10, 41);
+    background-color: rgb(44, 55, 218);
 }
-
+h1{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 50px;
+}
 .calculadora{
     width: 250px;
     position: absolute;
